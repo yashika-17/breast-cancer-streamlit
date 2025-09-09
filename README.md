@@ -6,7 +6,7 @@ A machine learning web application that predicts the likelihood of breast cancer
 
 Predicts whether a tumor is benign or malignant.
 
-Built with Python, Scikit-learn, and Streamlit/Flask (whichever you used).
+Built with Python, Scikit-learn, and Streamlit
 
 Clean and interactive user interface.
 
@@ -14,11 +14,11 @@ Deployed and accessible online.
 
 ⚙️ Tech Stack
 
-Frontend/Deployment: Streamlit / Flask (mention whichever you used)
+Frontend/Deployment: Streamlit / Flask 
 
 Backend: Python
 
-ML Model: Logistic Regression / Random Forest (mention your algorithm)
+ML Model: Logistic Regression 
 
 Libraries: NumPy, Pandas, Scikit-learn, Matplotlib/Seaborn
 
